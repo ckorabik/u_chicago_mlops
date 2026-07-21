@@ -1,2 +1,15 @@
-/athletes.csv
-/processed_data.csv
+# Local datasets and generated pipeline outputs
+Assignment_2/data/*.csv
+Assignment_2/models/
+Assignment_2/reports/
+
+# Local-only feature and experiment stores
+Assignment_2/feature_store.db
+Assignment_2/mlflow.db
+Assignment_2/mlartifacts/
+mlflow.db
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

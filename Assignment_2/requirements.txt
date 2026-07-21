@@ -1,0 +1,10 @@
+pandas
+matplotlib
+dvc
+scikit-learn
+seaborn
+xgboost
+ruff
+pylint
+mlflow
+joblib
